@@ -1,1 +1,1 @@
-alert("NInja Js");
+alert("NInja Js 2");
